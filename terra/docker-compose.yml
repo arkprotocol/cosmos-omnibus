@@ -43,7 +43,7 @@ services:
       # - STATESYNC_POLKACHU=1
       # ==================
       # for latest snapshot check here: https://polkachu.com/testnets/terra/snapshots
-      - SNAPSHOT_URL=https://snapshots.polkachu.com/testnet-snapshots/terra/terra_7473866.tar.lz4
+      - SNAPSHOT_URL=https://snapshots.polkachu.com/testnet-snapshots/terra/terra_7488846.tar.lz4
       - SNAPSHOT_FORMAT=tar.lz4
       - SNAPSHOT_DATA_PATH=data
       # ==================
